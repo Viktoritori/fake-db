@@ -5,6 +5,68 @@
       "title": "hello"
     }
   ],
+  "cosmetics": [
+    {
+      "name": "Cream",
+      "manufacturer": "ONmacabim",
+      "mils": 200,
+      "price": "$54,406.00"
+    },
+    {
+      "name": "Gel-muss",
+      "manufacturer": "La Roche-Posay",
+      "mils": 600,
+      "price": "$423,132"
+    },
+    {
+      "name": "Cream",
+      "manufacturer": "InstitutEsthederm",
+      "mils": 200,
+      "price": "$12,321"
+    },
+    {
+      "name": "Cream SPF-30",
+      "manufacturer": "ONmacabim",
+      "mils": 150,
+      "price": "$745,232"
+    },
+    {
+      "name": "Serum",
+      "manufacturer": "ISclinic",
+      "mils": 80,
+      "price": "$643,242"
+    },
+    {
+      "name": "Serum",
+      "manufacturer": "Obadgi",
+      "mils": 100,
+      "price": "$421,132"
+    },
+    {
+      "name": "Cream SPF-30",
+      "manufacturer": "Bioderma",
+      "mils": 200,
+      "price": "$131,211"
+    },
+    {
+      "name": "Daily gel",
+      "manufacturer": "Vichy",
+      "mils": 350,
+      "price": "$66,442"
+    },
+    {
+      "name": "Mask",
+      "manufacturer": "Vichy",
+      "mils": 50,
+      "price": "$765,442"
+    },
+    {
+      "name": "Mask",
+      "manufacturer": "ISclinical",
+      "mils": 50,
+      "price": "$21,21"
+    }
+  ],
   "profile": {
     "name": "typicode"
   }
