@@ -8,11 +8,83 @@
   "pets": [
     {
       "id": 1,
-      "name": "Andrew12412421412421",
-      "breed": "HEW",
-      "age": "HWE",
-      "location": "WHE",
-      "description": "HEW3J3J34"
+      "name": "Paw",
+      "breed": "Exotic",
+      "age": "5 month",
+      "location": "Kyiv",
+      "description": "gentle, soft"
+    },
+    {
+      "id": 2,
+      "name": "Paw",
+      "breed": "Exotic",
+      "age": "5 month",
+      "location": "Kyiv",
+      "description": "gentle, soft"
+    },
+    {
+      "id": 3,
+      "name": "Paw",
+      "breed": "Exotic",
+      "age": "5 month",
+      "location": "Kyiv",
+      "description": "gentle, soft"
+    },
+    {
+      "id": 4,
+      "name": "Paw",
+      "breed": "Exotic",
+      "age": "5 month",
+      "location": "Kyiv",
+      "description": "gentle, soft"
+    },
+    {
+      "id": 5,
+      "name": "Paw",
+      "breed": "Exotic",
+      "age": "5 month",
+      "location": "Kyiv",
+      "description": "gentle, soft"
+    },
+    {
+      "id": 6,
+      "name": "Paw",
+      "breed": "Exotic",
+      "age": "5 month",
+      "location": "Kyiv",
+      "description": "gentle, soft"
+    },
+    {
+      "id": 7,
+      "name": "Paw",
+      "breed": "Exotic",
+      "age": "5 month",
+      "location": "Kyiv",
+      "description": "gentle, soft"
+    },
+    {
+      "id": 8,
+      "name": "Paw",
+      "breed": "Exotic",
+      "age": "5 month",
+      "location": "Kyiv",
+      "description": "gentle, soft"
+    },
+    {
+      "id": 9,
+      "name": "Paw",
+      "breed": "Exotic",
+      "age": "5 month",
+      "location": "Kyiv",
+      "description": "gentle, soft"
+    },
+    {
+      "id": 10,
+      "name": "Paw",
+      "breed": "Exotic",
+      "age": "5 month",
+      "location": "Kyiv",
+      "description": "gentle, soft"
     }
   ]
 }
