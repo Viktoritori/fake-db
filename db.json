@@ -8,6 +8,7 @@
   "pets": [
     {
       "id": 1,
+      "photoUrl": "https://catmolly.com/wp-content/uploads/2019/05/kak-opredelit-pol-kotenka.jpg",
       "name": "Paw",
       "breed": "Exotic",
       "age": "5 month",
