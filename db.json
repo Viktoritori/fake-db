@@ -1,72 +1,86 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
   "cosmetics": [
     {
+      "id": 1,
+      "name": "Шурочка",
+      "breed": "Російська блакитна кішка",
+      "age": "5 місяців",
+      "location": "Київ"
+      "description": "Добра, лагідна кішечка, яка стане справжнім другом для вас"
+    },
+    {
       "id": 2,
-      "name": "Cream",
-      "manufacturer": "ONmacabim",
-      "mils": 200,
-      "price": "$54,406.00"
+      "name": "Шурочка",
+      "breed": "Російська блакитна кішка",
+      "age": "5 місяців",
+      "location": "Київ"
+      "description": "Добра, лагідна кішечка, яка стане справжнім другом для вас"
     },
     {
-      "name": "Gel-muss",
-      "manufacturer": "La Roche-Posay",
-      "mils": 600,
-      "price": "$423,132"
+      "id": 3,
+      "name": "Шурочка",
+      "breed": "Російська блакитна кішка",
+      "age": "5 місяців",
+      "location": "Київ"
+      "description": "Добра, лагідна кішечка, яка стане справжнім другом для вас"
     },
     {
-      "name": "Cream",
-      "manufacturer": "InstitutEsthederm",
-      "mils": 200,
-      "price": "$12,321"
+      "id": 4,
+      "name": "Шурочка",
+      "breed": "Російська блакитна кішка",
+      "age": "5 місяців",
+      "location": "Київ"
+      "description": "Добра, лагідна кішечка, яка стане справжнім другом для вас"
     },
     {
-      "name": "Cream SPF-30",
-      "manufacturer": "ONmacabim",
-      "mils": 150,
-      "price": "$745,232"
+      "id": 5,
+      "name": "Шурочка",
+      "breed": "Російська блакитна кішка",
+      "age": "5 місяців",
+      "location": "Київ"
+      "description": "Добра, лагідна кішечка, яка стане справжнім другом для вас"
     },
     {
-      "name": "Serum",
-      "manufacturer": "ISclinic",
-      "mils": 80,
-      "price": "$643,242"
+      "id": 6,
+      "name": "Шурочка",
+      "breed": "Російська блакитна кішка",
+      "age": "5 місяців",
+      "location": "Київ"
+      "description": "Добра, лагідна кішечка, яка стане справжнім другом для вас"
     },
     {
-      "name": "Serum",
-      "manufacturer": "Obadgi",
-      "mils": 100,
-      "price": "$421,132"
+      "id": 7,
+      "name": "Шурочка",
+      "breed": "Російська блакитна кішка",
+      "age": "5 місяців",
+      "location": "Київ"
+      "description": "Добра, лагідна кішечка, яка стане справжнім другом для вас"
     },
     {
-      "name": "Cream SPF-30",
-      "manufacturer": "Bioderma",
-      "mils": 200,
-      "price": "$131,211"
+      "id": 8,
+      "name": "Шурочка",
+      "breed": "Російська блакитна кішка",
+      "age": "5 місяців",
+      "location": "Київ"
+      "description": "Добра, лагідна кішечка, яка стане справжнім другом для вас"
     },
     {
-      "name": "Daily gel",
-      "manufacturer": "Vichy",
-      "mils": 350,
-      "price": "$66,442"
+      "id": 9,
+      "name": "Шурочка",
+      "breed": "Російська блакитна кішка",
+      "age": "5 місяців",
+      "location": "Київ"
+      "description": "Добра, лагідна кішечка, яка стане справжнім другом для вас"
     },
     {
-      "name": "Mask",
-      "manufacturer": "Vichy",
-      "mils": 50,
-      "price": "$765,442"
+      "id": 10,
+      "name": "Шурочка",
+      "breed": "Російська блакитна кішка",
+      "age": "5 місяців",
+      "location": "Київ"
+      "description": "Добра, лагідна кішечка, яка стане справжнім другом для вас"
     },
-    {
-      "name": "Mask",
-      "manufacturer": "ISclinical",
-      "mils": 50,
-      "price": "$21,21"
-    }
+
   ],
   "profile": {
     "name": "Victoria Serputko",
